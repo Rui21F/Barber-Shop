@@ -24,3 +24,13 @@ Barber Shop Reserve & Store Website is designed to facilitate appointments and s
 ## Usage
 
 To use this project, simply navigate to the corresponding pages using the links provided in the navigation bar. Users can reserve appointments on the Reserve page and browse available products in the Store page.
+
+
+## Screenshots
+
+![Screenshot 1](src/assets/print1.png)
+![Screenshot 2](src/assets/print2.png)
+![Screenshot 3](src/assets/print3.png)
+![Screenshot 4](src/assets/print4.png)
+![Screenshot 5](src/assets/print5.png)
+![Screenshot 6](src/assets/print6.png)

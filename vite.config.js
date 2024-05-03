@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['react-calendly'], // Add 'react-calendly' to the external array
+      external: ['react-calendly'],
     },
   },
 });
