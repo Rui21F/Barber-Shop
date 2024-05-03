@@ -1,6 +1,6 @@
 import "./Reserve.css"
 import React from "react"
-import { InlineWidget } from "react-calendly"
+import { InlineWidget } from "react-calendly";
 
 
 const Reserve = () => {
